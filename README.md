@@ -3,7 +3,7 @@
 **Tecnologo en Analisis y Desarrollo de Software** |  Con amplio conocimiento en programacion en PHP • APIs • MySQL  
 Construyo APIs robustas y mantenibles para productos SaaS. Trabajo con pruebas automatizadas y CI/CD.
 
-📫 Contacto: cjsatlas@hotmail.com | [LinkedIn](https://linkedin.com/in/Carlos_Sánchez)  
+📫 Contacto: cjsatlas@hotmail.com | [LinkedIn](https://linkedin.com/in/carlos-sánchez)  
 🔭 Actualmente: Mejorando una plataforma de gestión de tareas (San Rafael).  
 ⭐ Proyectos destacados:
 - [proyecto-uno](https://github.com/tuusuario/proyecto-uno) — API REST para gestión de tareas (PHP, MySQL).
