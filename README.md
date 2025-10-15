@@ -1,16 +1,16 @@
 # ¡Hola! 👋 Soy Carlos Sánchez
 
-**Tecnologo en Analisis y Desarrollo de Software** |  Con amplio conocimiento en programacion en PHP • APIs • MySQL  
-Construyo APIs robustas y mantenibles para productos SaaS. Trabajo con pruebas automatizadas y CI/CD.
+**Tecnologo en Analisis y Desarrollo de Software** |  Con amplio conocimiento en programacion en Python • APIs • MySQL  
+Construyo APIs robustas y mantenibles para productos SaaS.
 
 📫 Contacto: cjsatlas@hotmail.com | [LinkedIn](https://linkedin.com/in/carlos-sánchez-)  
 🔭 Actualmente: Mejorando una plataforma de gestión de tareas (San Rafael).  
 ⭐ Proyectos destacados:
-- [proyecto-uno](https://github.com/tuusuario/proyecto-uno) — API REST para gestión de tareas (PHP, MySQL).
-- [proyecto-dos](https://github.com/tuusuario/proyecto-dos) — Microservicio para notificaciones (Docker, Redis).
+- [proyecto-uno](https://github.com/CarlosJSanchezdev/shortener_service) — Acortador de enlaces (Flask,Css,Python,Html)
+- [proyecto-dos](https://github.com/CarlosJSanchezdev/api-frase)
 
 ## Tecnologías
-**Back-end:** PHP, Laravel, Slim, Composer  
+**Back-end:** PHP, Python,   
 **Bases de datos:** MySQL, PostgreSQL  
 **Infra:** En Construccion
 
