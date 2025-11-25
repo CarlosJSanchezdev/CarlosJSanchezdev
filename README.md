@@ -3,14 +3,14 @@
 **Tecnologo en Analisis y Desarrollo de Software** |  Con amplio conocimiento en programacion en Python • APIs • MySQL  
 Construyo APIs robustas y mantenibles para productos SaaS.
 
-📫 Contacto: cjsatlas@hotmail.com | [LinkedIn](https://linkedin.com/in/carlos-sánchez-)  
-🔭 Actualmente: Mejorando una plataforma de gestión de tareas (San Rafael).  
+📫 Contacto: cjsatlas@hotmail.com | [LinkedIn](https://linkedin.com/in/carlos-sánchez-b9311b32b)
+🔭 Actualmente: Desplegando portafolio.  
 ⭐ Proyectos destacados:
 - [proyecto-uno](https://github.com/CarlosJSanchezdev/shortener_service) — Acortador de enlaces (Flask,Css,Python,Html)
-- [proyecto-dos](https://github.com/CarlosJSanchezdev/api-frase)
+- [proyecto-dos](https://github.com/CarlosJSanchezdev/api-frase)- Modulo randomizador de frases motivacionales segun parametros
 
 ## Tecnologías
-**Back-end:** PHP, Python,   
+Back-end:** PHP, Python,   
 **Bases de datos:** MySQL, PostgreSQL  
 **Infra:** En Construccion
 
