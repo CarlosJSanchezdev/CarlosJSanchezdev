@@ -6,8 +6,8 @@ Construyo APIs robustas y mantenibles para productos SaaS.
 📫 Contacto: cjsatlas@hotmail.com | [LinkedIn](https://linkedin.com/in/carlos-sánchez-b9311b32b)
 🔭 Actualmente: Desplegando portafolio.  
 ⭐ Proyectos destacados:
-- [proyecto-uno](https://github.com/CarlosJSanchezdev/shortener_service) — Acortador de enlaces (Flask,Css,Python,Html)
-- [proyecto-dos](https://github.com/CarlosJSanchezdev/api-frase)- Modulo randomizador de frases motivacionales segun parametros
+- [proyecto-uno](https://github.com/CarlosJSanchezdev/My_port_folio) — Portafolio personal  (Python,My SQL,Angular,Css)
+
 
 ## Tecnologías
 Back-end:** PHP, Python,   
