@@ -1,23 +1,51 @@
-# ¡Hola! 👋 Soy Carlos Sánchez
+# Carlos Sánchez - Software Developer
 
-**Tecnologo en Analisis y Desarrollo de Software** |  Con amplio conocimiento en programacion en Python • APIs • MySQL  
-Construyo APIs robustas y mantenibles para productos SaaS.
+## 👋 About Me
 
-📫 Contacto: cjsatlas@hotmail.com | [LinkedIn](https://linkedin.com/in/carlos-sánchez-b9311b32b)
-🔭 Actualmente: Desplegando portafolio.  
-⭐ Proyectos destacados:
-- [proyecto-uno](https://github.com/CarlosJSanchezdev/My_port_folio) — Portafolio personal  (Python,My SQL,Angular,Css)
+**Tecnólogo en Análisis y Desarrollo de Software** with extensive knowledge in programming using Python, APIs, and MySQL. I specialize in building robust and maintainable APIs for SaaS products.
 
+I'm passionate about creating efficient solutions and continuously learning new technologies to improve my skills and contribute to innovative projects.
 
-## Tecnologías
-Back-end:** PHP, Python,   
-**Bases de datos:** MySQL, PostgreSQL  
-**Infra:** En Construccion
+## 💼 What I Do
 
----
+- **Backend Development**: Building scalable APIs and server-side applications using Python and PHP
+- **Database Design**: Creating efficient database schemas and managing data with MySQL and PostgreSQL
+- **API Development**: Developing RESTful APIs and microservices for various applications
+- **SaaS Solutions**: Contributing to cloud-based software products with focus on scalability and reliability
 
-## 📈 Estadísticas
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJSanchezdev&layout=compact)
+## 🚀 Technologies & Tools
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=database&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Infrastructure & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 🌟 Featured Projects
+
+- **[My Portfolio](https://github.com/CarlosJSanchezdev/My_port_folio)** - Personal portfolio showcasing my skills and projects (Python, MySQL, Angular, CSS)
+
+## 📈 GitHub Stats
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJSanchezdev&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosJSanchezdev&show_icons=true&theme=dark)
+
+## 📫 Get In Touch
+
+- **Email**: [cjsatlas@hotmail.com](mailto:cjsatlas@hotmail.com)
+- **LinkedIn**: [Carlos Sánchez](https://linkedin.com/in/carlos-sánchez-b9311b32b)
+
+## 🎯 Currently Working On
+
+- Deploying portfolio website with enhanced features
+- Improving infrastructure capabilities and cloud deployment strategies
 
 ---
 
