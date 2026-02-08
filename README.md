@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-**Tecnólogo en Análisis y Desarrollo de Software** with extensive knowledge in programming using Python, APIs, and MySQL. I specialize in building robust and maintainable APIs for SaaS products.
+**Software Analysis and Development Technologist** with extensive knowledge in programming using Python, APIs, and MySQL. I specialize in building robust and maintainable APIs for SaaS products.
 
 I'm passionate about creating efficient solutions and continuously learning new technologies to improve my skills and contribute to innovative projects.
 
