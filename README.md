@@ -50,3 +50,38 @@ I'm passionate about creating efficient solutions and continuously learning new 
 ---
 
 
+
+# Carlos Julio Sánchez Guevara
+
+Supervisor de seguridad privada y desarrollador de software. Trabajo en la intersección entre operación, seguridad y tecnología, construyendo herramientas prácticas y sistemas web.
+
+---
+
+### Perfil
+
+- **Operación y seguridad:** 20 años de experiencia en vigilancia y supervisión operativa, enfocándome en control de procesos, respuesta y criterio en campo.
+- **Desarrollo:** Tecnólogo en Análisis y Desarrollo de Software y estudiante de Ingeniería de Sistemas en la UNAD.
+- **Enfoque actual:** Integrar soluciones de software y automatización en entornos de seguridad corporativa y gestión operativa.
+
+---
+
+### Stack y entorno
+
+| Área | Herramientas |
+| :--- | :--- |
+| **Lenguajes y web** | Python, Angular, SQL |
+| **Bases de datos** | MySQL |
+| **Sistema y entorno** | Linux (Lubuntu / LXQt), Git, zsh |
+
+---
+
+### Proyectos y trabajo
+
+- **[San_Rafael_Saas](https://github.com/CarlosJSanchezdev/San_Rafael_Saas)** — Aplicación web tipo SaaS desarrollada con Python, Angular y MySQL.
+- **Iniciativas de seguridad y comunidad** — Material divulgativo y canales de alerta orientados a prevención y apoyo comunitario.
+
+---
+
+### Contacto
+
+- GitHub: [CarlosJSanchezdev](https://github.com/CarlosJSanchezdev)
