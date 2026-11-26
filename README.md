@@ -1,87 +1,42 @@
-# Carlos Sánchez - Software Developer
+# Carlos Sánchez
 
-## 👋 About Me
-
-**Software Analysis and Development Technologist** with extensive knowledge in programming using Python, APIs, and MySQL. I specialize in building robust and maintainable APIs for SaaS products.
-
-I'm passionate about creating efficient solutions and continuously learning new technologies to improve my skills and contribute to innovative projects.
-
-## 💼 What I Do
-
-- **Backend Development**: Building scalable APIs and server-side applications using Python and PHP
-- **Database Design**: Creating efficient database schemas and managing data with MySQL and PostgreSQL
-- **API Development**: Developing RESTful APIs and microservices for various applications
-- **SaaS Solutions**: Contributing to cloud-based software products with focus on scalability and reliability
-
-## 🚀 Technologies & Tools
-
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=database&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Infrastructure & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 🌟 Featured Projects
-
-- **[My Portfolio](https://github.com/CarlosJSanchezdev/My_port_folio)** - Personal portfolio showcasing my skills and projects (Python, MySQL, Angular, CSS)
-
-## 📈 GitHub Stats
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJSanchezdev&layout=compact&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosJSanchezdev&show_icons=true&theme=dark)
-
-## 📫 Get In Touch
-
-- **Email**: [cjsatlas@hotmail.com](mailto:cjsatlas@hotmail.com)
-- **LinkedIn**: [Carlos Sánchez](https://linkedin.com/in/carlos-sánchez-b9311b32b)
-
-## 🎯 Currently Working On
-
-- Deploying portfolio website with enhanced features
-- Improving infrastructure capabilities and cloud deployment strategies
+Desarrollador de software y tecnólogo en análisis y desarrollo de software. Enfocado en APIs, diseño de bases de datos y aplicaciones orientadas a productos SaaS.
 
 ---
 
+### Enfoque
 
-
-# Carlos Julio Sánchez Guevara
-
-Supervisor de seguridad privada y desarrollador de software. Trabajo en la intersección entre operación, seguridad y tecnología, construyendo herramientas prácticas y sistemas web.
-
----
-
-### Perfil
-
-- **Operación y seguridad:** 20 años de experiencia en vigilancia y supervisión operativa, enfocándome en control de procesos, respuesta y criterio en campo.
-- **Desarrollo:** Tecnólogo en Análisis y Desarrollo de Software y estudiante de Ingeniería de Sistemas en la UNAD.
-- **Enfoque actual:** Integrar soluciones de software y automatización en entornos de seguridad corporativa y gestión operativa.
+- **Backend:** Desarrollo de APIs y aplicaciones del lado del servidor con Python y PHP.
+- **Bases de datos:** Modelado de esquemas y gestión de datos con MySQL y PostgreSQL.
+- **Servicios y APIs:** Construcción de APIs REST y microservicios mantenibles.
+- **Soluciones SaaS:** Desarrollo de software orientado a escalabilidad y fiabilidad.
 
 ---
 
-### Stack y entorno
+### Stack
 
-| Área | Herramientas |
-| :--- | :--- |
-| **Lenguajes y web** | Python, Angular, SQL |
-| **Bases de datos** | MySQL |
-| **Sistema y entorno** | Linux (Lubuntu / LXQt), Git, zsh |
+- **Lenguajes:** Python · PHP · SQL
+- **Frontend:** Angular · HTML / CSS
+- **Bases de datos:** MySQL · PostgreSQL
+- **Herramientas y entorno:** Linux · Git
 
 ---
 
-### Proyectos y trabajo
+### Proyectos destacados
 
-- **[San_Rafael_Saas](https://github.com/CarlosJSanchezdev/San_Rafael_Saas)** — Aplicación web tipo SaaS desarrollada con Python, Angular y MySQL.
-- **Iniciativas de seguridad y comunidad** — Material divulgativo y canales de alerta orientados a prevención y apoyo comunitario.
+- **[San Rafael SaaS](https://github.com/CarlosJSanchezdev/San_Rafael_Saas)** — Aplicación web SaaS desarrollada con Python, Angular y MySQL.
+- **[My Portfolio](https://github.com/CarlosJSanchezdev/My_port_folio)** — Portafolio personal con proyectos y stack (Python, MySQL, Angular, CSS).
+
+---
+
+### En marcha
+
+- Despliegue del portafolio web con mejoras funcionales.
+- Refuerzo de infraestructura y estrategias de despliegue en la nube.
 
 ---
 
 ### Contacto
 
-- GitHub: [CarlosJSanchezdev](https://github.com/CarlosJSanchezdev)
+- **Correo:** [cjsatlas@hotmail.com](mailto:cjsatlas@hotmail.com)
+- **LinkedIn:** [Carlos Sánchez](https://linkedin.com/in/carlos-sánchez-b9311b32b)
